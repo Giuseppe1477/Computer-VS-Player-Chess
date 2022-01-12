@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Board(int,\ int)
+comment1.params=currentPanel
+comment1.target=void\ setupBoard(javax.swing.JPanel)
+numComments=2
